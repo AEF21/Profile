@@ -1,6 +1,4 @@
-# Profile
-Hello Friends!
-ProfileMe.dev
+
 
 
 Introduction
@@ -13,17 +11,15 @@ Go home
 
 Follow me
 |
-Buy Me a Coffee
+
 Support
 Make it easy for people using your products to support you or give donations.
 
 
 Previous
-buymeacoffee
-Buy Me a Coffee:
+
 yourname
-kofi
-Ko-fi:
+
 yourname
 
 Previous

@@ -1,15 +1,9 @@
 
 
 
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
 
-Follow me
+
+
 |
 
 
